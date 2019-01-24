@@ -1,0 +1,4 @@
+----- hacer una correcta estrucutra de carpetas y subcarpetas ( pregutar isa como se deberia ahcer de forma correcta para gestionar las rutas de manera dinamica y de forma relativa)
+---- preparar mas metodos nuestros para gestionas la aplicacion
+---- hacer ultimas busquedas con cookies no con session
+--- ver porque no muestra adecuadamente los ascesorios;

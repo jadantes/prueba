@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#arriba {
+    float: left;
+    width: 100%;
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+#izquierdo {
+    float: left;
+    width: 15%;
+    min-height: 700px;
+    background-color: aqua;
+    text-align: center;
+}
+
+#derecho {
+    float: left;
+    width: 85%;
+   min-height: 700px;
+    background-color: forestgreen;
+    position: relative;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #2586d7;
+}
+
+ul, li {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+    font-family: Arial;
+    font-size: 30px;
+}
+
+label span{
+    font-size: large;
+
+    font-weight: bold;
+}
+
+
+
+
+
